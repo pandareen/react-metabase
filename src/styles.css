@@ -1,0 +1,19 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+figcaption {
+  margin: 0.5em 0;
+}
+
+figure {
+  margin: 2em 0;
+}
+
+iframe {
+  width: 50%;
+  max-width: 100%;
+  border: 1px solid darkgray;
+  padding: 1em;
+}

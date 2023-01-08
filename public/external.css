@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+.external {
+  font-family: monospace;
+  font-size: 1.5em;
+  color: greenyellow;
+}
